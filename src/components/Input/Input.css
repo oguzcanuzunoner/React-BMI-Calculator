@@ -1,0 +1,15 @@
+input{
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100px;
+    text-align:center;
+    margin: 15px 0;
+}
+
+input:focus{
+    outline: none;
+    width: 75%;
+    transition: 0.4s;
+    left: 0;
+}
