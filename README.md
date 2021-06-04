@@ -1,3 +1,7 @@
+## NETLIFY DEMO
+[NETLIFY DEMO - CLICK ](https://agitated-hoover-bd1ddd.netlify.app/)
+
+
 ## Vücut Kitle İndeksi Hesaplama
 
 Uygulamamızda boy ve kilonuzu giriyorsunuz. Size vücut kitle indeksinizi söylüyor ve size uygun diyet programınızı gösteriyor.
